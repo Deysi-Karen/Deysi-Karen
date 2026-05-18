@@ -24,7 +24,7 @@
 - 👒Eu ainda estou no processo de aprender 100% mas sei que estou lá.
 - 💻Gosto de participar em projetos de games, tambem quando é para fazer projetos de ux-ui.
 - 🎓Mais pra frente gostaria de entrar no mundo da medicina pra saber melhor como desenvolver  um hardware e software para o avanço medico.
-- 🌼Gosto de cuidar das minhas plantinhas,⭐pratico para melhorar no skate e gosto de series engraçadas.
+- 🌼Gosto de cuidar das minhas plantinhas.
 </div>
   
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
